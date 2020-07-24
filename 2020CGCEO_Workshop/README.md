@@ -1,4 +1,4 @@
-This page is for 'CGCEO Remote Sensing Lab’s 2020 Summer ICESat-series Workshop'
+'CGCEO Remote Sensing Lab’s 2020 Summer ICESat-series Workshop'
 
 Presenter: Myung Sik Cho
 
